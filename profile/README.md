@@ -3,7 +3,7 @@
 ## 멤버 소개
 |<img src="https://avatars.githubusercontent.com/u/42925743?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/105909281?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/117625978?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
-|[@ljy0221](https://github.com/ljy0221)|shinhs9902<br/>[@queenanemone](https://github.com/queenanemone)|DongYeop<br/>[@dongyeop00](https://github.com/dongyeop00)|
+|ljy0221<br/>[@ljy0221](https://github.com/ljy0221)|shinhs9902<br/>[@queenanemone](https://github.com/queenanemone)|DongYeop<br/>[@dongyeop00](https://github.com/dongyeop00)|
 
 ## 스터디 개요
 - **언어**: Java
